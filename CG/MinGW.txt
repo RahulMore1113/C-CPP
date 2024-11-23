@@ -1,0 +1,9 @@
+1. For Setup the graphics.h in the VS Code : - 
+	https://github.com/sagargoswami2001/How-to-Setup-Graphics.h-for-Visual-Studio-Code
+
+2. Add below arguments in the Code Runner extension in the VS Code : -
+	-lglut32win -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32 -o
+
+3. For OpenGL programs should refer this for installing GLUT : -
+	https://web.cs.wpi.edu/~gogo/courses/mingw/
+
